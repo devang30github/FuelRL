@@ -1,0 +1,10 @@
+{
+  "mode": "shaped",
+  "steps": 100000,
+  "seed": 0,
+  "arrival_rate": 0.09,
+  "strand_rate": 0.91,
+  "mean_cost_all_episodes": 3002.88,
+  "mean_station_reached": 12.915,
+  "mean_gap_to_optimal_pct": 8.951193480836801
+}

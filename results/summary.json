@@ -1,0 +1,46 @@
+{
+  "seeds": [
+    {
+      "seed": 0,
+      "raw_arrival": 0.89,
+      "raw_gap_pct": 6.201211196737785,
+      "shield_arrival": 1.0,
+      "shield_gap_pct": 6.324897340331105
+    },
+    {
+      "seed": 1,
+      "raw_arrival": 0.92,
+      "raw_gap_pct": 6.115160900026293,
+      "shield_arrival": 1.0,
+      "shield_gap_pct": 6.185522231323132
+    },
+    {
+      "seed": 2,
+      "raw_arrival": 0.925,
+      "raw_gap_pct": 5.911699893778348,
+      "shield_arrival": 1.0,
+      "shield_gap_pct": 5.953937932883289
+    },
+    {
+      "seed": 3,
+      "raw_arrival": 0.82,
+      "raw_gap_pct": 5.591614110289019,
+      "shield_arrival": 1.0,
+      "shield_gap_pct": 5.652873296813399
+    },
+    {
+      "seed": 4,
+      "raw_arrival": 0.915,
+      "raw_gap_pct": 5.512556730244847,
+      "shield_arrival": 1.0,
+      "shield_gap_pct": 5.534117709762442
+    }
+  ],
+  "greedy": {
+    "arrival_rate": 1.0,
+    "strand_rate": 0.0,
+    "mean_cost_all_episodes": 3290.905,
+    "mean_station_reached": 14.0,
+    "mean_gap_to_optimal_pct": 13.078999991078987
+  }
+}

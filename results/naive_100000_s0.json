@@ -1,0 +1,10 @@
+{
+  "mode": "naive",
+  "steps": 100000,
+  "seed": 0,
+  "arrival_rate": 0.0,
+  "strand_rate": 1.0,
+  "mean_cost_all_episodes": 0.0,
+  "mean_station_reached": 0.605,
+  "mean_gap_to_optimal_pct": null
+}
